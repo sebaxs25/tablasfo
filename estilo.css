@@ -1,0 +1,29 @@
+table{
+   border-style: solid;  
+    border-color: darkmagenta;       
+}
+
+td{
+    border-style: solid;
+    border-color: red;
+    font-size: 0.5rem;
+    color: black;
+    background: rgb(147, 156, 156);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 15px;
+    height: 15px;
+}
+th{
+    border-style: solid;
+    border-color: red;
+    font-size: 0.5rem;
+    color: black;
+    background: rgb(147, 156, 156);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 30px;
+    height: 30px;
+} 
+
+.uno{
+    
+}
